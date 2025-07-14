@@ -31,6 +31,7 @@ Make sure to place the dataset in the appropriate folder as required by the appl
 
 ## ▶️ Running the App</br>
 1 Clone the repository</br>
-2 Download and place the dataset as instructed</br>
-3 Run the App1.py file to start the application</br>
+2 Then run alzheimer-detection.ipynb and tumor-detection.ipynb that generate .keras files</br>
+3 Download and place the dataset as instructed</br>
+4 Run the App1.py file to start the application</br>
   python App1.py
